@@ -17,7 +17,7 @@ It enables stakeholders to:
 
 # 🖼️ Dashboard Preview
 
-![Dashboard Preview](image/dashboard-preview.png)
+![Dashboard Preview](Sales-performance/image/dashboard-preview.png)
 
 ---
 
