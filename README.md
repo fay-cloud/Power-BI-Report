@@ -214,7 +214,7 @@ Potential enhancements for future versions:
 ### 🔗 Connect With Me
 
 - GitHub: https://github.com/fay-cloud
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: www.linkedin.com/in/fayomi-data
 
 ---
 
